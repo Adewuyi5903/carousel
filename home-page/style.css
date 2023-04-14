@@ -1,0 +1,30 @@
+.website{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.website-phone{
+    display: flex;
+    align-items: center;
+}
+
+.email{
+    margin-left: 1rem ;
+    margin-bottom: 0;
+}
+
+.number{
+margin-bottom: 0;
+}
+   #phone{
+    margin-left: 2rem;
+   } 
+
+   .website-icons{
+    margin-right: 2rem;
+   }
+
+   .icons{
+    margin-left: 0.5rem;
+   }
